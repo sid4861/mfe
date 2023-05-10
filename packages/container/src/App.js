@@ -6,7 +6,7 @@ console.log("mount", mount);
 function App() {
   return (
     <div>
-      <h1>Hi FROM container</h1>
+      <h1>Hi FROM CONTAINER</h1>
       <hr />
       <MarketingApp />
     </div>
